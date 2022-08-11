@@ -8,49 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = New_folder
 build_property.RootNamespace = New_folder
-build_property.ProjectDir = C:\Users\avina\Desktop\Coddboxx\New folder\
+build_property.ProjectDir = C:\Users\avina\Desktop\Coddboxx\Rocket_Elevators_Customer_Porta\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\avina\Desktop\Coddboxx\New folder
+build_property.MSBuildProjectDirectory = C:\Users\avina\Desktop\Coddboxx\Rocket_Elevators_Customer_Porta
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/Home/Index.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/Home/Interventions.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/Home/Interventions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnRlcnZlbnRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/Home/My_Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeV9Qcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/Shared/Error.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/_ViewImports.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/_ViewStart.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/avina/Desktop/Coddboxx/New folder/Views/Shared/_Layout.cshtml]
+[C:/Users/avina/Desktop/Coddboxx/Rocket_Elevators_Customer_Porta/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hrspmlm5cb
