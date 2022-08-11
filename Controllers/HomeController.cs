@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using New_folder.Models;
 
@@ -17,11 +18,12 @@ public class HomeController : Controller
     {
         return View();
     }
-
+    [Authorize]
     public IActionResult My_Products()
     {
         return View();
     }
+    [Authorize]
     public IActionResult Interventions()
     {
         return View();
