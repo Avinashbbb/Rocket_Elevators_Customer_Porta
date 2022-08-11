@@ -1,17 +1,20 @@
 @{
     ViewData["Title"] = "Home Page";
 }
+<div>
+    <h1>
+        Create Interventions
+    </h1>
+</div>
 <form action="/interventions" method= "post">
-
-<br>
+<hr>
     <div>
         <label>Please select the customer from below.</label>
             <select id = "selectedCustomer">
             <option value = "N/A">--Select--</option>
             </select>
     </div>
-<br>
-
+<hr>
     <div>
         <label>Please select the building of the customer.</label>
             <select id = "selectedBuilding" >
@@ -19,8 +22,7 @@
                 <option value = 0 >N/A</option>
             </select>
     </div>
-
-<br>
+<hr>
     <div>
       <label>Please select the battery of the building.</label>
             <select id = "selectedBattery">
@@ -28,9 +30,7 @@
                 <option value = 0 >N/A</option>
             </select>
     </div>
-
-<br>
-
+<hr>
     <div>
         <label>Please select the column of the battery.</label>
             <select id = "selectedColumn">
@@ -38,9 +38,7 @@
                 <option value = 0 >N/A</option>
             </select>
     </div>
-
-<br>
-
+<hr>
     <div>
         <label>Please select the elevator of the column.</label>
             <select id = "selectedElevator">
@@ -48,20 +46,15 @@
                 <option value = 0 >N/A</option>
             </select>
     </div>
-
-<br>
-
+<hr>
     <div>
         <label>Description<label>
             </br>
         <textarea type = "text", id ="description" rows="5" cols="50"></textarea>
     </div>
-
-<br>
+<hr>
     <div id = 'submit'>
         <button type = 'button', class = 'btn btn-primary' >Submit</button>
         </div>
     </div> 
-
-
 </form>

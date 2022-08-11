@@ -291,3 +291,6 @@ $("#selectedBuilding").change(function () {
 $("#selectedBattery").change(function () {
   selectColumn();
 });
+$("#selectedColumn").change(function (){
+    selectElevator();
+})

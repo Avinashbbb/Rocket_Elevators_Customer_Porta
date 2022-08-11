@@ -9944,9 +9944,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\avina\\Desktop\\Coddboxx\\Rocket_Elevators_Customer_Porta\\New folder.csproj",
-      "projectName": "New folder",
-      "projectPath": "C:\\Users\\avina\\Desktop\\Coddboxx\\Rocket_Elevators_Customer_Porta\\New folder.csproj",
+      "projectUniqueName": "C:\\Users\\avina\\Desktop\\Coddboxx\\Rocket_Elevators_Customer_Porta\\ROCKET_ELEVATORS_CUSTOMER_PORTA.csproj",
+      "projectName": "ROCKET_ELEVATORS_CUSTOMER_PORTA",
+      "projectPath": "C:\\Users\\avina\\Desktop\\Coddboxx\\Rocket_Elevators_Customer_Porta\\ROCKET_ELEVATORS_CUSTOMER_PORTA.csproj",
       "packagesPath": "C:\\Users\\avina\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\avina\\Desktop\\Coddboxx\\Rocket_Elevators_Customer_Porta\\obj\\",
       "projectStyle": "PackageReference",
