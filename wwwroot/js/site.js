@@ -282,6 +282,43 @@ function selectElevator() {
     });
 }
 
+async function submit(){
+let cusid = $("#selectedCustomer").val();
+let builid = $("#selectedBuilding").val();
+let battid = $("#selectedBattery").val();
+let colid = $("#selectedColumn").val();
+let elevid = $("#selectedElevator").val();
+let desc = $("#description").val();
+
+let rawResponce = await fetch(
+  "https://apicsharpavinash.herokuapp.com/api/Customer",
+  {
+    method: "POST",
+    headers: {
+      Accept: "application/json",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      id: 0,
+      author: " ",
+      interventionDateStart: " ",
+      interventionDateEnd: " ",
+      result: " ",
+      report: parseInt(desc),
+      status: " ",
+      customer_id: parseInt(cusid),
+      employee_id: 0,
+      building_id: parseInt(builid),
+      batterie_id: parseInt(battid),
+      column_id: parseInt(colid),
+      elevator_id: parseInt(elevid),
+    }),
+  }
+);
+let content = await rawResponce.json()
+console.log(content)
+}
+
 $("#selectedCustomer").change(function () {
   selectBuilding();
 });
@@ -294,3 +331,6 @@ $("#selectedBattery").change(function () {
 $("#selectedColumn").change(function (){
     selectElevator();
 })
+$("#submit").click(function (){
+    submit();
+});
