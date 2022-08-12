@@ -10,8 +10,6 @@ selectCustomer();
 selectCustomerEmail();
 buildingdetails();
 
-
-
 function selectCustomerEmail() {
   fetch("https://apicsharpavinash.herokuapp.com/api/Customer")
     .then((response) => {
@@ -148,48 +146,6 @@ async function buildingdetails() {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function selectCustomer() {
   fetch("https://apicsharpavinash.herokuapp.com/customerobj/" + currentuser)
     .then((response) => {
